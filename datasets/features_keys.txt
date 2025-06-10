@@ -1,0 +1,173 @@
+1_std_abs
+1_var_phs
+1_norm_dwt_0
+1_norm_amp
+1_norm_phs
+1_var_amp_fluc
+1_norm_i
+1_norm_q
+1_norm_amp_mean
+1_power_per_sec
+1_norm_dwt_level_2
+1_norm_dwt_level_3
+1_norm_dwt_level_4
+1_norm_dwt_level_5
+1_norm_dwt_level_6
+1_norm_dwt_level_7
+1_norm_dwt_level_8
+0_Absolute energy
+0_Area under the curve
+0_Autocorrelation
+0_Average power
+0_Centroid
+0_ECDF Percentile Count_0
+0_ECDF Percentile Count_1
+0_ECDF Percentile_0
+0_ECDF Percentile_1
+0_ECDF_0
+0_ECDF_1
+0_ECDF_2
+0_ECDF_3
+0_ECDF_4
+0_ECDF_5
+0_ECDF_6
+0_ECDF_7
+0_ECDF_8
+0_ECDF_9
+0_Entropy
+0_Fundamental frequency
+0_Histogram mode
+0_Human range energy
+0_Interquartile range
+0_Kurtosis
+0_LPCC_0
+0_LPCC_1
+0_LPCC_10
+0_LPCC_11
+0_LPCC_2
+0_LPCC_3
+0_LPCC_4
+0_LPCC_5
+0_LPCC_6
+0_LPCC_7
+0_LPCC_8
+0_LPCC_9
+0_MFCC_0
+0_MFCC_1
+0_MFCC_10
+0_MFCC_11
+0_MFCC_2
+0_MFCC_3
+0_MFCC_4
+0_MFCC_5
+0_MFCC_6
+0_MFCC_7
+0_MFCC_8
+0_MFCC_9
+0_Max
+0_Max power spectrum
+0_Maximum frequency
+0_Mean
+0_Mean absolute deviation
+0_Mean absolute diff
+0_Mean diff
+0_Median
+0_Median absolute deviation
+0_Median absolute diff
+0_Median diff
+0_Median frequency
+0_Min
+0_Negative turning points
+0_Neighbourhood peaks
+0_Peak to peak distance
+0_Positive turning points
+0_Power bandwidth
+0_Root mean square
+0_Signal distance
+0_Skewness
+0_Slope
+0_Spectral centroid
+0_Spectral decrease
+0_Spectral distance
+0_Spectral entropy
+0_Spectral kurtosis
+0_Spectral positive turning points
+0_Spectral roll-off
+0_Spectral roll-on
+0_Spectral skewness
+0_Spectral slope
+0_Spectral spread
+0_Spectral variation
+0_Spectrogram mean coefficient_0.0Hz
+0_Spectrogram mean coefficient_1000.0Hz
+0_Spectrogram mean coefficient_129.03Hz
+0_Spectrogram mean coefficient_161.29Hz
+0_Spectrogram mean coefficient_193.55Hz
+0_Spectrogram mean coefficient_225.81Hz
+0_Spectrogram mean coefficient_258.06Hz
+0_Spectrogram mean coefficient_290.32Hz
+0_Spectrogram mean coefficient_32.26Hz
+0_Spectrogram mean coefficient_322.58Hz
+0_Spectrogram mean coefficient_354.84Hz
+0_Spectrogram mean coefficient_387.1Hz
+0_Spectrogram mean coefficient_419.35Hz
+0_Spectrogram mean coefficient_451.61Hz
+0_Spectrogram mean coefficient_483.87Hz
+0_Spectrogram mean coefficient_516.13Hz
+0_Spectrogram mean coefficient_548.39Hz
+0_Spectrogram mean coefficient_580.65Hz
+0_Spectrogram mean coefficient_612.9Hz
+0_Spectrogram mean coefficient_64.52Hz
+0_Spectrogram mean coefficient_645.16Hz
+0_Spectrogram mean coefficient_677.42Hz
+0_Spectrogram mean coefficient_709.68Hz
+0_Spectrogram mean coefficient_741.94Hz
+0_Spectrogram mean coefficient_774.19Hz
+0_Spectrogram mean coefficient_806.45Hz
+0_Spectrogram mean coefficient_838.71Hz
+0_Spectrogram mean coefficient_870.97Hz
+0_Spectrogram mean coefficient_903.23Hz
+0_Spectrogram mean coefficient_935.48Hz
+0_Spectrogram mean coefficient_96.77Hz
+0_Spectrogram mean coefficient_967.74Hz
+0_Standard deviation
+0_Sum absolute diff
+0_Variance
+0_Wavelet absolute mean_100.0Hz
+0_Wavelet absolute mean_125.0Hz
+0_Wavelet absolute mean_166.67Hz
+0_Wavelet absolute mean_250.0Hz
+0_Wavelet absolute mean_500.0Hz
+0_Wavelet absolute mean_55.56Hz
+0_Wavelet absolute mean_62.5Hz
+0_Wavelet absolute mean_71.43Hz
+0_Wavelet absolute mean_83.33Hz
+0_Wavelet energy_100.0Hz
+0_Wavelet energy_125.0Hz
+0_Wavelet energy_166.67Hz
+0_Wavelet energy_250.0Hz
+0_Wavelet energy_500.0Hz
+0_Wavelet energy_55.56Hz
+0_Wavelet energy_62.5Hz
+0_Wavelet energy_71.43Hz
+0_Wavelet energy_83.33Hz
+0_Wavelet entropy
+0_Wavelet standard deviation_100.0Hz
+0_Wavelet standard deviation_125.0Hz
+0_Wavelet standard deviation_166.67Hz
+0_Wavelet standard deviation_250.0Hz
+0_Wavelet standard deviation_500.0Hz
+0_Wavelet standard deviation_55.56Hz
+0_Wavelet standard deviation_62.5Hz
+0_Wavelet standard deviation_71.43Hz
+0_Wavelet standard deviation_83.33Hz
+0_Wavelet variance_100.0Hz
+0_Wavelet variance_125.0Hz
+0_Wavelet variance_166.67Hz
+0_Wavelet variance_250.0Hz
+0_Wavelet variance_500.0Hz
+0_Wavelet variance_55.56Hz
+0_Wavelet variance_62.5Hz
+0_Wavelet variance_71.43Hz
+0_Wavelet variance_83.33Hz
+0_Zero crossing rate
